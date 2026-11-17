@@ -7,7 +7,7 @@
 
 Building maintainable enterprise software, improving complex systems, and exploring modern backend architecture.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reza%20Angooti-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-ang/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reza%20Angooti-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-angouti/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/rezaangouti)
 
 </div>
