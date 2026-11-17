@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Reza Angooti 👋
+# Hi, I'm Reza Angouti 👋
 
 ### .NET Backend Developer · ERP Engineer · Technical Lead
 
