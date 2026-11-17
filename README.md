@@ -113,6 +113,7 @@ The following are examples of professional work described in my resume. They are
 
 These are areas of active learning and exploration, not a claim of production-level expertise in every technology.
 
+<!--
 ## 📊 GitHub Overview
 
 <div align="center">
@@ -124,7 +125,7 @@ These are areas of active learning and exploration, not a claim of production-le
 <img src="https://streak-stats.demolab.com?user=rezaangouti&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
-
+-->
 ## 🤝 Engineering Principles
 
 - Prefer maintainable solutions over unnecessary complexity.
@@ -136,7 +137,7 @@ These are areas of active learning and exploration, not a claim of production-le
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** [Reza Angooti](https://www.linkedin.com/in/reza-ang/)
+- **LinkedIn:** [Reza Angooti](https://www.linkedin.com/in/reza-angouti/)
 - **Email:** reza.angouti@gmail.com
 
 ---
